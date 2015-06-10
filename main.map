@@ -1,0 +1,2069 @@
+Archive member included because of file (symbol)
+
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+                              board.o (NVIC_Init)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                              board.o (DAC_Init)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                              stm32f4_discovery_audio_codec.o (DMA_DeInit)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                              board.o (GPIO_Init)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                              stm32f4_discovery_audio_codec.o (I2C_DeInit)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                              main.o (RCC_GetClocksFreq)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                              stm32f4_discovery_audio_codec.o (SPI_I2S_DeInit)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                              board.o (TIM_TimeBaseInit)
+/rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+                              (Reset_Handler)
+
+Allocating common symbols
+Common symbol       size              file
+
+g_cpu_SP            0x1               main.o
+CurrentPos          0x4               stm32f4_discovery_audio_codec.o
+g_aud_idx           0x4               main.o
+g_cpu_save_flags    0x1               main.o
+g_sys_start1        0x4               main.o
+g_aud_last_saucer   0x4               main.o
+g_sys_bank          0x4               main.o
+g_sys_cslot_util    0x4               main.o
+g_cpu_save_Y        0x1               main.o
+g_cpu_save_PC       0x2               main.o
+g_aud_saucer_fire   0x4               main.o
+g_vctr_portrait     0x4               main.o
+g_sys_cslot_right   0x4               main.o
+g_sys_sram          0x400             main.o
+g_cpu_save_X        0x1               main.o
+g_cpu_save_A        0x1               main.o
+g_sys_self_test     0x4               main.o
+g_soc_curr_switch   0x4               main.o
+g_cpu_irq_cycle     0x4               main.o
+g_sys_slam          0x4               main.o
+g_sys_vram          0x800             main.o
+g_aud_curr_saucer   0x4               main.o
+g_sys_cslot_left    0x4               main.o
+AUDIO_MAL_DMA_InitStructure
+                    0x3c              stm32f4_discovery_audio_codec.o
+g_sys_optionreg     0x3               main.o
+g_aud_abuf          0x40              main.o
+g_cpu_cyc_wraps     0x4               main.o
+g_aud_ping_pong     0x4               main.o
+g_vctr_vg_count     0x4               main.o
+g_sys_start2        0x4               main.o
+g_aud_curr_thump    0x4               main.o
+g_soc_sixty_hz      0x4               main.o
+g_sys_breakflag     0x4               main.o
+g_cpu_save_totcycles
+                    0x1               main.o
+g_vctr_vg_busy      0x4               main.o
+g_count             0x4               board.o
+RCC_Clocks          0x10              main.o
+g_vctr_vector_mem_offset
+                    0x4               main.o
+DMA_InitStructure   0x3c              stm32f4_discovery_audio_codec.o
+g_vctr_vg_done_cyc  0x4               main.o
+g_sys_points        0x4               main.o
+g_aud_curr_exp      0x4               main.o
+g_aud_smask         0x4               main.o
+g_sys_switches      0x38              main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 cells.o
+ .data          0x00000000        0x0 cells.o
+ .bss           0x00000000        0x0 cells.o
+ .data          0x00000000        0x0 glue.o
+ .bss           0x00000000        0x0 glue.o
+ .data          0x00000000        0x0 mixer.o
+ .bss           0x00000000        0x0 mixer.o
+ .text          0x00000000        0x0 audio.o
+ .data          0x00000000        0x0 audio.o
+ .bss           0x00000000        0x0 audio.o
+ .text          0x00000000        0x0 board.o
+ .data          0x00000000        0x0 board.o
+ .bss           0x00000000        0x0 board.o
+ .text          0x00000000        0x0 display.o
+ .data          0x00000000        0x0 display.o
+ .bss           0x00000000        0x0 display.o
+ .text          0x00000000        0x0 game.o
+ .data          0x00000000        0x0 game.o
+ .bss           0x00000000        0x0 game.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .text          0x00000000        0x0 memory.o
+ .data          0x00000000        0x0 memory.o
+ .bss           0x00000000        0x0 memory.o
+ .text.check_switch_decr
+                0x00000000       0x14 memory.o
+ .text          0x00000000        0x0 no_interface.o
+ .data          0x00000000        0x0 no_interface.o
+ .bss           0x00000000        0x0 no_interface.o
+ .text          0x00000000        0x0 sim6502.o
+ .data          0x00000000        0x0 sim6502.o
+ .bss           0x00000000        0x0 sim6502.o
+ .text          0x00000000        0x0 stm32f4_discovery_audio_codec.o
+ .data          0x00000000        0x0 stm32f4_discovery_audio_codec.o
+ .bss           0x00000000        0x0 stm32f4_discovery_audio_codec.o
+ .text.Codec_Mute.part.1
+                0x00000000        0x8 stm32f4_discovery_audio_codec.o
+ .text.EVAL_AUDIO_DeInit
+                0x00000000       0xbc stm32f4_discovery_audio_codec.o
+ .text.EVAL_AUDIO_PauseResume
+                0x00000000       0x9c stm32f4_discovery_audio_codec.o
+ .text.EVAL_AUDIO_Stop
+                0x00000000       0x9c stm32f4_discovery_audio_codec.o
+ .text.EVAL_AUDIO_VolumeCtl
+                0x00000000       0x24 stm32f4_discovery_audio_codec.o
+ .text.EVAL_AUDIO_Mute
+                0x00000000       0x18 stm32f4_discovery_audio_codec.o
+ .text.Codec_TIMEOUT_UserCallback
+                0x00000000        0x4 stm32f4_discovery_audio_codec.o
+ .text          0x00000000        0x0 stm32f4xx_it.o
+ .data          0x00000000        0x0 stm32f4xx_it.o
+ .bss           0x00000000        0x0 stm32f4xx_it.o
+ .text          0x00000000        0x0 syscalls.o
+ .data          0x00000000        0x0 syscalls.o
+ .bss           0x00000000        0x0 syscalls.o
+ .text._sbrk    0x00000000       0x20 syscalls.o
+ .bss.heap.4129
+                0x00000000        0x4 syscalls.o
+ .debug_info    0x00000000       0xed syscalls.o
+ .debug_abbrev  0x00000000       0x8d syscalls.o
+ .debug_loc     0x00000000       0x21 syscalls.o
+ .debug_aranges
+                0x00000000       0x20 syscalls.o
+ .debug_ranges  0x00000000       0x10 syscalls.o
+ .debug_line    0x00000000       0xb9 syscalls.o
+ .debug_str     0x00000000      0x129 syscalls.o
+ .comment       0x00000000       0x71 syscalls.o
+ .ARM.attributes
+                0x00000000       0x3b syscalls.o
+ .debug_frame   0x00000000       0x20 syscalls.o
+ .text          0x00000000        0x0 system_stm32f4xx.o
+ .data          0x00000000        0x0 system_stm32f4xx.o
+ .bss           0x00000000        0x0 system_stm32f4xx.o
+ .text.SystemCoreClockUpdate
+                0x00000000       0x94 system_stm32f4xx.o
+ .data.AHBPrescTable
+                0x00000000       0x10 system_stm32f4xx.o
+ .data.SystemCoreClock
+                0x00000000        0x4 system_stm32f4xx.o
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .text.NVIC_PriorityGroupConfig
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .text.NVIC_SetVectorTable
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .text.NVIC_SystemLPConfig
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .text.SysTick_CLKSourceConfig
+                0x00000000       0x30 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_DeInit
+                0x00000000       0x1a /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_StructInit
+                0x00000000        0xc /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_SoftwareTriggerCmd
+                0x00000000       0x54 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_DualSoftwareTriggerCmd
+                0x00000000       0x30 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_WaveGenerationCmd
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_SetChannel2Data
+                0x00000000       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_SetDualChannelData
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_GetDataOutputValue
+                0x00000000       0x38 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_DMACmd
+                0x00000000       0x54 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_ITConfig
+                0x00000000       0x54 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_GetFlagStatus
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_ClearFlag
+                0x00000000       0x38 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_GetITStatus
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text.DAC_ClearITPendingBit
+                0x00000000       0x38 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_StructInit
+                0x00000000       0x22 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_PeriphIncOffsetSizeConfig
+                0x00000000       0xa0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_FlowControllerConfig
+                0x00000000       0x9c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_SetCurrDataCounter
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_GetCurrDataCounter
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_MemoryTargetConfig
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_GetCmdStatus
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_GetFIFOStatus
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_GetFlagStatus
+                0x00000000      0x1e4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_ClearFlag
+                0x00000000       0xc8 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_ITConfig
+                0x00000000       0xdc /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_GetITStatus
+                0x00000000      0x254 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text.DMA_ClearITPendingBit
+                0x00000000       0xc8 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_DeInit
+                0x00000000       0xd4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_StructInit
+                0x00000000       0x12 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_PinLockConfig
+                0x00000000       0x8c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_ReadInputDataBit
+                0x00000000       0xc4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_ReadInputData
+                0x00000000       0x64 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_ReadOutputDataBit
+                0x00000000       0xc4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_ReadOutputData
+                0x00000000       0x64 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_SetBits
+                0x00000000       0x70 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_ResetBits
+                0x00000000       0x70 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_Write
+                0x00000000       0x64 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text.GPIO_ToggleBits
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_StructInit
+                0x00000000       0x1c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_OwnAddress2Config
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_DualAddressCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_GeneralCallCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_SoftwareResetCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_StretchClockCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_FastModeDutyCycleConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_NACKPositionConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_SMBusAlertConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_ARPCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_TransmitPEC
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_PECPositionConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_CalculatePEC
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_GetPEC
+                0x00000000       0x34 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_DMACmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_DMALastTransferCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_ReadRegister
+                0x00000000       0x70 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_ITConfig
+                0x00000000       0x64 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_GetLastEvent
+                0x00000000       0x3c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_GetITStatus
+                0x00000000       0xc0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text.I2C_ClearITPendingBit
+                0x00000000       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_DeInit
+                0x00000000       0x34 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_HSEConfig
+                0x00000000       0x28 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AdjustHSICalibrationValue
+                0x00000000       0x2c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_HSICmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_LSEConfig
+                0x00000000       0x3c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_LSICmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_PLLConfig
+                0x00000000       0x90 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_PLLCmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_PLLI2SConfig
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_PLLI2SCmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_ClockSecuritySystemCmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_MCO1Config
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_MCO2Config
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_SYSCLKConfig
+                0x00000000       0x28 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_GetSYSCLKSource
+                0x00000000       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_HCLKConfig
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_PCLK1Config
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_PCLK2Config
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_RTCCLKConfig
+                0x00000000      0x140 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_RTCCLKCmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_BackupResetCmd
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_I2SCLKConfig
+                0x00000000       0x20 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB2PeriphClockCmd
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB3PeriphClockCmd
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_APB2PeriphClockCmd
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB1PeriphResetCmd
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB2PeriphResetCmd
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB3PeriphResetCmd
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB1PeriphClockLPModeCmd
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB2PeriphClockLPModeCmd
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_AHB3PeriphClockLPModeCmd
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_APB1PeriphClockLPModeCmd
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_APB2PeriphClockLPModeCmd
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_ITConfig
+                0x00000000       0x44 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_GetFlagStatus
+                0x00000000       0x6c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_WaitForHSEStartUp
+                0x00000000       0x2c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_ClearFlag
+                0x00000000       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_GetITStatus
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text.RCC_ClearITPendingBit
+                0x00000000       0x28 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_Init
+                0x00000000      0x134 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_StructInit
+                0x00000000       0x18 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.I2S_StructInit
+                0x00000000       0x12 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_Cmd  0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_DataSizeConfig
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_BiDirectionalLineConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_NSSInternalSoftwareConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_SSOutputCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_TIModeCmd
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.I2S_FullDuplexConfig
+                0x00000000       0xd0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_I2S_ReceiveData
+                0x00000000       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_CalculateCRC
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_TransmitCRC
+                0x00000000       0x38 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_GetCRC
+                0x00000000       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_GetCRCPolynomial
+                0x00000000       0x34 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_I2S_ITConfig
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_I2S_ClearFlag
+                0x00000000       0x54 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_I2S_GetITStatus
+                0x00000000       0x88 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text.SPI_I2S_ClearITPendingBit
+                0x00000000       0x5c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .text          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_DeInit
+                0x00000000      0x14c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_TimeBaseStructInit
+                0x00000000       0x12 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_PrescalerConfig
+                0x00000000       0x9c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_CounterModeConfig
+                0x00000000       0x70 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetCounter
+                0x00000000       0x88 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetAutoreload
+                0x00000000       0x88 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetCounter
+                0x00000000       0x88 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetPrescaler
+                0x00000000       0x88 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_UpdateDisableConfig
+                0x00000000       0xb0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_UpdateRequestConfig
+                0x00000000       0xb0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ARRPreloadConfig
+                0x00000000       0xb0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectOnePulseMode
+                0x00000000       0xac /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetClockDivision
+                0x00000000       0xa4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC1Init
+                0x00000000      0x17c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC2Init
+                0x00000000      0x170 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC3Init
+                0x00000000      0x15c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC4Init
+                0x00000000      0x108 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OCStructInit
+                0x00000000       0x14 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectOCxM
+                0x00000000       0xfc /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetCompare1
+                0x00000000       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetCompare2
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetCompare3
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetCompare4
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ForcedOC1Config
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ForcedOC2Config
+                0x00000000       0x7c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ForcedOC3Config
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ForcedOC4Config
+                0x00000000       0x6c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC1PreloadConfig
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC2PreloadConfig
+                0x00000000       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC3PreloadConfig
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC4PreloadConfig
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC1FastConfig
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC2FastConfig
+                0x00000000       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC3FastConfig
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC4FastConfig
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ClearOC1Ref
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ClearOC2Ref
+                0x00000000       0x74 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ClearOC3Ref
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ClearOC4Ref
+                0x00000000       0x64 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC1PolarityConfig
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC1NPolarityConfig
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC2PolarityConfig
+                0x00000000       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC2NPolarityConfig
+                0x00000000       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC3PolarityConfig
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC3NPolarityConfig
+                0x00000000       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_OC4PolarityConfig
+                0x00000000       0x68 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_CCxCmd
+                0x00000000       0xbc /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_CCxNCmd
+                0x00000000       0x6c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ICStructInit
+                0x00000000       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetCapture1
+                0x00000000       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetCapture2
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetCapture3
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetCapture4
+                0x00000000       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetIC1Prescaler
+                0x00000000       0xa4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetIC2Prescaler
+                0x00000000       0x88 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_PWMIConfig
+                0x00000000       0xbc /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetIC3Prescaler
+                0x00000000       0x74 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SetIC4Prescaler
+                0x00000000       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ICInit
+                0x00000000      0x240 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_BDTRConfig
+                0x00000000       0xd0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_BDTRStructInit
+                0x00000000       0x12 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_CtrlPWMOutputs
+                0x00000000       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectCOM
+                0x00000000       0x50 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_CCPreloadControl
+                0x00000000       0x50 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GenerateEvent
+                0x00000000       0x9c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetFlagStatus
+                0x00000000       0xd0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ClearFlag
+                0x00000000       0x8c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_GetITStatus
+                0x00000000       0xc4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ClearITPendingBit
+                0x00000000       0x8c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_DMAConfig
+                0x00000000       0xd0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_DMACmd
+                0x00000000       0x90 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectCCDMA
+                0x00000000       0x70 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_InternalClockConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ITRxExternalClockConfig
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectOutputTrigger
+                0x00000000       0x94 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectSlaveMode
+                0x00000000       0x7c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectMasterSlaveMode
+                0x00000000       0x7c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ETRConfig
+                0x00000000       0x98 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ETRClockMode2Config
+                0x00000000       0xa0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_ETRClockMode1Config
+                0x00000000       0xa4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_EncoderInterfaceConfig
+                0x00000000       0xd4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_SelectHallSensor
+                0x00000000       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_RemapConfig
+                0x00000000       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text          0x00000000       0x14 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+ .data          0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+ .bss           0x00000000        0x0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00100000         xr
+RAM              0x20000000         0x00030000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+                0x20020000                _estack = 0x20020000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000400                _Min_Stack_Size = 0x400
+
+.isr_vector     0x08000000      0x188
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x188 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+                0x08000000                g_pfnVectors
+                0x08000188                . = ALIGN (0x4)
+
+.text           0x08000188    0xa3898
+                0x08000188                . = ALIGN (0x4)
+ *(.text)
+ .text          0x08000188       0x34 glue.o
+                0x08000188                init_dwt
+                0x08000198                get_dwt
+                0x0800019e                get_and_clear_dwt
+                0x080001aa                clr_dwt
+ .text          0x080001bc       0x14 mixer.o
+                0x080001bc                mixer
+                0x080001ce                xyzzy
+ *(.text*)
+ .text.add_sounds
+                0x080001d0       0xf8 audio.o
+                0x080001d0                add_sounds
+ .text.enable_sound
+                0x080002c8       0x18 audio.o
+                0x080002c8                enable_sound
+ .text.disable_sound
+                0x080002e0       0x18 audio.o
+                0x080002e0                disable_sound
+ .text.get_sample
+                0x080002f8      0x2e4 audio.o
+                0x080002f8                get_sample
+ .text.TIM3_IRQHandler
+                0x080005dc       0x64 board.o
+                0x080005dc                TIM3_IRQHandler
+ .text.EVAL_AUDIO_GetSampleCallBack
+                0x08000640        0x4 board.o
+                0x08000640                EVAL_AUDIO_GetSampleCallBack
+ .text.init_gpio
+                0x08000644       0x6c board.o
+                0x08000644                init_gpio
+ .text.init_dac
+                0x080006b0       0x48 board.o
+                0x080006b0                init_dac
+ .text.dac_out  0x080006f8       0x88 board.o
+                0x080006f8                dac_out
+ .text.TIM5_IRQHandler
+                0x08000780       0x2c board.o
+                0x08000780                TIM5_IRQHandler
+ .text.init_timer
+                0x080007ac      0x104 board.o
+                0x080007ac                init_timer
+ .text.write_gpio
+                0x080008b0       0x4c board.o
+                0x080008b0                write_gpio
+ .text.write_gpio_leds
+                0x080008fc       0x28 board.o
+                0x080008fc                write_gpio_leds
+ .text.read_gpio
+                0x08000924       0x10 board.o
+                0x08000924                read_gpio
+ .text.init_board
+                0x08000934       0x84 board.o
+                0x08000934                init_board
+ .text.vg_done  0x080009b8       0x28 display.o
+                0x080009b8                vg_done
+ .text.vg_go    0x080009e0      0x32c display.o
+                0x080009e0                vg_go
+ .text.vg_reset
+                0x08000d0c       0x10 display.o
+                0x08000d0c                vg_reset
+ .text.setup_game
+                0x08000d1c       0x1c game.o
+                0x08000d1c                setup_game
+ .text.assert_failed
+                0x08000d38        0x4 main.o
+                0x08000d38                assert_failed
+ .text.startup.main
+                0x08000d3c       0x90 main.o
+                0x08000d3c                main
+ .text.MEMRD    0x08000dcc      0x2a0 memory.o
+                0x08000dcc                MEMRD
+ .text.MEMWR    0x0800106c      0x290 memory.o
+                0x0800106c                MEMWR
+ .text.iabs     0x080012fc        0x8 no_interface.o
+                0x080012fc                iabs
+ .text.plot     0x08001304        0xc no_interface.o
+                0x08001304                plot
+ .text.draw_line
+                0x08001310       0xac no_interface.o
+                0x08001310                draw_line
+ .text.dopush   0x080013bc       0x24 sim6502.o
+                0x080013bc                dopush
+ .text.dopop    0x080013e0       0x20 sim6502.o
+                0x080013e0                dopop
+ .text.sim_6502
+                0x08001400     0x3328 sim6502.o
+                0x08001400                sim_6502
+ .text.Codec_WriteRegister
+                0x08004728      0x2ec stm32f4_discovery_audio_codec.o
+ .text.Codec_Reset
+                0x08004a14       0x2c stm32f4_discovery_audio_codec.o
+ .text.Codec_VolumeCtrl
+                0x08004a40       0x1c stm32f4_discovery_audio_codec.o
+ .text.EVAL_AUDIO_SetAudioInterface
+                0x08004a5c       0xf8 stm32f4_discovery_audio_codec.o
+                0x08004a5c                EVAL_AUDIO_SetAudioInterface
+ .text.DMA1_Stream7_IRQHandler
+                0x08004b54        0x4 stm32f4_discovery_audio_codec.o
+                0x08004b54                DMA1_Stream7_IRQHandler
+ .text.DMA1_Stream0_IRQHandler
+                0x08004b58        0x4 stm32f4_discovery_audio_codec.o
+                0x08004b58                DMA1_Stream0_IRQHandler
+ .text.SPI3_IRQHandler
+                0x08004b5c       0x44 stm32f4_discovery_audio_codec.o
+                0x08004b5c                SPI3_IRQHandler
+ .text.Audio_MAL_Play
+                0x08004ba0       0x80 stm32f4_discovery_audio_codec.o
+                0x08004ba0                Audio_MAL_Play
+ .text.EVAL_AUDIO_Play
+                0x08004c20       0x48 stm32f4_discovery_audio_codec.o
+                0x08004c20                EVAL_AUDIO_Play
+ .text.DAC_Config
+                0x08004c68       0x50 stm32f4_discovery_audio_codec.o
+                0x08004c68                DAC_Config
+ .text.EVAL_AUDIO_Init
+                0x08004cb8      0x3cc stm32f4_discovery_audio_codec.o
+                0x08004cb8                EVAL_AUDIO_Init
+ .text.NMI_Handler
+                0x08005084        0x4 stm32f4xx_it.o
+                0x08005084                NMI_Handler
+ .text.HardFault_Handler
+                0x08005088        0x4 stm32f4xx_it.o
+                0x08005088                HardFault_Handler
+ .text.MemManage_Handler
+                0x0800508c        0x4 stm32f4xx_it.o
+                0x0800508c                MemManage_Handler
+ .text.BusFault_Handler
+                0x08005090        0x4 stm32f4xx_it.o
+                0x08005090                BusFault_Handler
+ .text.UsageFault_Handler
+                0x08005094        0x4 stm32f4xx_it.o
+                0x08005094                UsageFault_Handler
+ .text.SVC_Handler
+                0x08005098        0x4 stm32f4xx_it.o
+                0x08005098                SVC_Handler
+ .text.DebugMon_Handler
+                0x0800509c        0x4 stm32f4xx_it.o
+                0x0800509c                DebugMon_Handler
+ .text.PendSV_Handler
+                0x080050a0        0x4 stm32f4xx_it.o
+                0x080050a0                PendSV_Handler
+ .text.SysTick_Handler
+                0x080050a4        0x4 stm32f4xx_it.o
+                0x080050a4                SysTick_Handler
+ .text.EXTI0_IRQHandler
+                0x080050a8        0x4 stm32f4xx_it.o
+                0x080050a8                EXTI0_IRQHandler
+ .text.SystemInit
+                0x080050ac      0x154 system_stm32f4xx.o
+                0x080050ac                SystemInit
+ .text.NVIC_Init
+                0x08005200       0x9c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+                0x08005200                NVIC_Init
+ .text.DAC_Init
+                0x0800529c       0xd4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                0x0800529c                DAC_Init
+ .text.DAC_Cmd  0x08005370       0x50 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                0x08005370                DAC_Cmd
+ .text.DAC_SetChannel1Data
+                0x080053c0       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                0x080053c0                DAC_SetChannel1Data
+ .text.DMA_DeInit
+                0x0800540c      0x180 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                0x0800540c                DMA_DeInit
+ .text.DMA_Init
+                0x0800558c      0x224 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                0x0800558c                DMA_Init
+ .text.DMA_Cmd  0x080057b0       0xa0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                0x080057b0                DMA_Cmd
+ .text.DMA_DoubleBufferModeConfig
+                0x08005850       0xa4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                0x08005850                DMA_DoubleBufferModeConfig
+ .text.DMA_DoubleBufferModeCmd
+                0x080058f4       0xa0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                0x080058f4                DMA_DoubleBufferModeCmd
+ .text.DMA_GetCurrentMemoryTarget
+                0x08005994       0x80 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                0x08005994                DMA_GetCurrentMemoryTarget
+ .text.GPIO_Init
+                0x08005a14      0x128 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                0x08005a14                GPIO_Init
+ .text.GPIO_WriteBit
+                0x08005b3c       0xd4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                0x08005b3c                GPIO_WriteBit
+ .text.GPIO_PinAFConfig
+                0x08005c10       0xe0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                0x08005c10                GPIO_PinAFConfig
+ .text.I2C_DeInit
+                0x08005cf0       0x64 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08005cf0                I2C_DeInit
+ .text.I2C_Init
+                0x08005d54      0x174 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08005d54                I2C_Init
+ .text.I2C_Cmd  0x08005ec8       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08005ec8                I2C_Cmd
+ .text.I2C_GenerateSTART
+                0x08005f20       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08005f20                I2C_GenerateSTART
+ .text.I2C_GenerateSTOP
+                0x08005f78       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08005f78                I2C_GenerateSTOP
+ .text.I2C_Send7bitAddress
+                0x08005fd0       0x50 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08005fd0                I2C_Send7bitAddress
+ .text.I2C_AcknowledgeConfig
+                0x08006020       0x58 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08006020                I2C_AcknowledgeConfig
+ .text.I2C_SendData
+                0x08006078       0x34 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x08006078                I2C_SendData
+ .text.I2C_ReceiveData
+                0x080060ac       0x34 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x080060ac                I2C_ReceiveData
+ .text.I2C_CheckEvent
+                0x080060e0       0xf4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x080060e0                I2C_CheckEvent
+ .text.I2C_GetFlagStatus
+                0x080061d4       0xf4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x080061d4                I2C_GetFlagStatus
+ .text.I2C_ClearFlag
+                0x080062c8       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                0x080062c8                I2C_ClearFlag
+ .text.RCC_GetClocksFreq
+                0x08006314       0x8c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                0x08006314                RCC_GetClocksFreq
+ .text.RCC_AHB1PeriphClockCmd
+                0x080063a0       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                0x080063a0                RCC_AHB1PeriphClockCmd
+ .text.RCC_APB1PeriphClockCmd
+                0x080063e8       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                0x080063e8                RCC_APB1PeriphClockCmd
+ .text.RCC_APB1PeriphResetCmd
+                0x08006430       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                0x08006430                RCC_APB1PeriphResetCmd
+ .text.RCC_APB2PeriphResetCmd
+                0x08006478       0x48 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                0x08006478                RCC_APB2PeriphResetCmd
+ .text.SPI_I2S_DeInit
+                0x080064c0       0x6c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                0x080064c0                SPI_I2S_DeInit
+ .text.I2S_Init
+                0x0800652c      0x18c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                0x0800652c                I2S_Init
+ .text.I2S_Cmd  0x080066b8       0x60 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                0x080066b8                I2S_Cmd
+ .text.SPI_I2S_SendData
+                0x08006718       0x40 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                0x08006718                SPI_I2S_SendData
+ .text.SPI_I2S_DMACmd
+                0x08006758       0x74 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                0x08006758                SPI_I2S_DMACmd
+ .text.SPI_I2S_GetFlagStatus
+                0x080067cc       0x78 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                0x080067cc                SPI_I2S_GetFlagStatus
+ .text.TI1_Config
+                0x08006844       0x32 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TI2_Config
+                0x08006876       0x3a /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .text.TIM_TimeBaseInit
+                0x080068b0      0x134 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                0x080068b0                TIM_TimeBaseInit
+ .text.TIM_Cmd  0x080069e4       0xb0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                0x080069e4                TIM_Cmd
+ .text.TIM_ITConfig
+                0x08006a94       0xc0 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                0x08006a94                TIM_ITConfig
+ .text.TIM_SelectInputTrigger
+                0x08006b54       0xac /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                0x08006b54                TIM_SelectInputTrigger
+ .text.TIM_TIxExternalClockConfig
+                0x08006c00       0xc4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                0x08006c00                TIM_TIxExternalClockConfig
+ .text.Reset_Handler
+                0x08006cc4       0x4c /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+                0x08006cc4                Reset_Handler
+ .text.Default_Handler
+                0x08006d10        0x4 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+                0x08006d10                RTC_Alarm_IRQHandler
+                0x08006d10                HASH_RNG_IRQHandler
+                0x08006d10                EXTI2_IRQHandler
+                0x08006d10                TIM8_CC_IRQHandler
+                0x08006d10                TIM1_CC_IRQHandler
+                0x08006d10                DMA2_Stream5_IRQHandler
+                0x08006d10                DMA1_Stream5_IRQHandler
+                0x08006d10                PVD_IRQHandler
+                0x08006d10                SDIO_IRQHandler
+                0x08006d10                TAMP_STAMP_IRQHandler
+                0x08006d10                CAN2_RX1_IRQHandler
+                0x08006d10                EXTI3_IRQHandler
+                0x08006d10                TIM8_TRG_COM_TIM14_IRQHandler
+                0x08006d10                TIM1_UP_TIM10_IRQHandler
+                0x08006d10                TIM8_UP_TIM13_IRQHandler
+                0x08006d10                I2C3_ER_IRQHandler
+                0x08006d10                I2C2_EV_IRQHandler
+                0x08006d10                DMA1_Stream2_IRQHandler
+                0x08006d10                CAN1_RX0_IRQHandler
+                0x08006d10                FPU_IRQHandler
+                0x08006d10                OTG_HS_WKUP_IRQHandler
+                0x08006d10                CAN2_SCE_IRQHandler
+                0x08006d10                DMA2_Stream2_IRQHandler
+                0x08006d10                SPI1_IRQHandler
+                0x08006d10                TIM6_DAC_IRQHandler
+                0x08006d10                TIM1_BRK_TIM9_IRQHandler
+                0x08006d10                DCMI_IRQHandler
+                0x08006d10                CAN2_RX0_IRQHandler
+                0x08006d10                DMA2_Stream3_IRQHandler
+                0x08006d10                USART6_IRQHandler
+                0x08006d10                USART3_IRQHandler
+                0x08006d10                CRYP_IRQHandler
+                0x08006d10                CAN1_RX1_IRQHandler
+                0x08006d10                UART5_IRQHandler
+                0x08006d10                DMA2_Stream0_IRQHandler
+                0x08006d10                TIM4_IRQHandler
+                0x08006d10                I2C1_EV_IRQHandler
+                0x08006d10                DMA1_Stream6_IRQHandler
+                0x08006d10                DMA1_Stream1_IRQHandler
+                0x08006d10                UART4_IRQHandler
+                0x08006d10                RCC_IRQHandler
+                0x08006d10                TIM8_BRK_TIM12_IRQHandler
+                0x08006d10                Default_Handler
+                0x08006d10                EXTI15_10_IRQHandler
+                0x08006d10                ADC_IRQHandler
+                0x08006d10                TIM7_IRQHandler
+                0x08006d10                CAN2_TX_IRQHandler
+                0x08006d10                DMA2_Stream7_IRQHandler
+                0x08006d10                I2C3_EV_IRQHandler
+                0x08006d10                EXTI9_5_IRQHandler
+                0x08006d10                RTC_WKUP_IRQHandler
+                0x08006d10                ETH_WKUP_IRQHandler
+                0x08006d10                SPI2_IRQHandler
+                0x08006d10                OTG_HS_EP1_IN_IRQHandler
+                0x08006d10                CAN1_TX_IRQHandler
+                0x08006d10                EXTI4_IRQHandler
+                0x08006d10                FSMC_IRQHandler
+                0x08006d10                ETH_IRQHandler
+                0x08006d10                OTG_HS_EP1_OUT_IRQHandler
+                0x08006d10                WWDG_IRQHandler
+                0x08006d10                TIM2_IRQHandler
+                0x08006d10                OTG_FS_WKUP_IRQHandler
+                0x08006d10                TIM1_TRG_COM_TIM11_IRQHandler
+                0x08006d10                OTG_HS_IRQHandler
+                0x08006d10                EXTI1_IRQHandler
+                0x08006d10                USART2_IRQHandler
+                0x08006d10                I2C2_ER_IRQHandler
+                0x08006d10                DMA2_Stream1_IRQHandler
+                0x08006d10                CAN1_SCE_IRQHandler
+                0x08006d10                FLASH_IRQHandler
+                0x08006d10                DMA2_Stream4_IRQHandler
+                0x08006d10                USART1_IRQHandler
+                0x08006d10                OTG_FS_IRQHandler
+                0x08006d10                DMA1_Stream4_IRQHandler
+                0x08006d10                I2C1_ER_IRQHandler
+                0x08006d10                DMA2_Stream6_IRQHandler
+                0x08006d10                DMA1_Stream3_IRQHandler
+ *(.rodata)
+ .rodata        0x08006d14    0x40000 cells.o
+                0x08006d14                g_sys_mem
+ *(.rodata*)
+ .rodata.lsaucer
+                0x08046d14     0x3c44 audio.o
+                0x08046d14                lsaucer
+ .rodata.thumplo
+                0x0804a958     0x232c audio.o
+                0x0804a958                thumplo
+ .rodata.explode2
+                0x0804cc84    0x15334 audio.o
+                0x0804cc84                explode2
+ .rodata.explode1
+                0x08061fb8    0x15808 audio.o
+                0x08061fb8                explode1
+ .rodata.thumphi
+                0x080777c0     0x2984 audio.o
+                0x080777c0                thumphi
+ .rodata.explode3
+                0x0807a144    0x153a0 audio.o
+                0x0807a144                explode3
+ .rodata.fire   0x0808f4e4     0x60a4 audio.o
+                0x0808f4e4                fire
+ .rodata.thrust
+                0x08095588     0x2324 audio.o
+                0x08095588                thrust
+ .rodata.life   0x080978ac     0x2d08 audio.o
+                0x080978ac                life
+ .rodata.ssaucer
+                0x0809a5b4     0x2a18 audio.o
+                0x0809a5b4                ssaucer
+ .rodata.sfire  0x0809cfcc     0x69dc audio.o
+                0x0809cfcc                sfire
+ .rodata.str1.1
+                0x080a39a8        0x7 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .rodata.str1.1
+                0x080a39af       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .rodata.str1.1
+                0x080a39bf       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .rodata.str1.1
+                0x080a39cf       0x11 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .rodata.str1.1
+                0x080a39e0       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .rodata.str1.1
+                0x080a39f0       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .rodata.str1.1
+                0x080a3a00       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .rodata.str1.1
+                0x080a3a10       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *(.fini)
+                0x080a3a20                . = ALIGN (0x4)
+                0x080a3a20                _etext = .
+
+.vfp11_veneer   0x080a3a20        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080a3a20        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080a3a20        0x0
+ .iplt          0x00000000        0x0 audio.o
+
+.rel.dyn        0x080a3a20        0x0
+ .rel.iplt      0x00000000        0x0 audio.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x080a3a20        0x0
+                0x080a3a20                __exidx_start = .
+ *(.ARM.exidx*)
+                0x080a3a20                __exidx_end = .
+
+.preinit_array  0x080a3a20        0x0
+                0x080a3a20                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x080a3a20                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x080a3a20        0x0
+                0x080a3a20                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+                0x080a3a20                PROVIDE (__init_array_end, .)
+
+.fini_array     0x080a3a20        0x0
+                0x080a3a20                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ *(SORT(.fini_array.*))
+                0x080a3a20                PROVIDE (__fini_array_end, .)
+                0x080a3a20                _sidata = .
+
+.data           0x20000000      0x118 load address 0x080a3a20
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ *(.data*)
+ .data.sounds   0x20000000       0xc0 audio.o
+                0x20000000                sounds
+ .data.g_vctr_post_delay
+                0x200000c0        0x4 main.o
+                0x200000c0                g_vctr_post_delay
+ .data.g_vctr_delay_factor
+                0x200000c4        0x4 main.o
+                0x200000c4                g_vctr_delay_factor
+ .data.g_cpu_irq_cycle_off
+                0x200000c8        0x4 main.o
+                0x200000c8                g_cpu_irq_cycle_off
+ .data.g_aud_explosion
+                0x200000cc        0x4 main.o
+                0x200000cc                g_aud_explosion
+ .data.g_codec_volume
+                0x200000d0        0x4 main.o
+                0x200000d0                g_codec_volume
+ .data.AUDIO_MAL_DMA_FLAG_FE
+                0x200000d4        0x4 stm32f4_discovery_audio_codec.o
+                0x200000d4                AUDIO_MAL_DMA_FLAG_FE
+ .data.AudioRemSize
+                0x200000d8        0x4 stm32f4_discovery_audio_codec.o
+                0x200000d8                AudioRemSize
+ .data.CODECTimeout
+                0x200000dc        0x4 stm32f4_discovery_audio_codec.o
+                0x200000dc                CODECTimeout
+ .data.AUDIO_MAL_DMA_FLAG_TE
+                0x200000e0        0x4 stm32f4_discovery_audio_codec.o
+                0x200000e0                AUDIO_MAL_DMA_FLAG_TE
+ .data.AUDIO_MAL_DMA_CLOCK
+                0x200000e4        0x4 stm32f4_discovery_audio_codec.o
+                0x200000e4                AUDIO_MAL_DMA_CLOCK
+ .data.AUDIO_MAL_DMA_FLAG_DME
+                0x200000e8        0x4 stm32f4_discovery_audio_codec.o
+                0x200000e8                AUDIO_MAL_DMA_FLAG_DME
+ .data.AUDIO_MAL_DMA_STREAM
+                0x200000ec        0x4 stm32f4_discovery_audio_codec.o
+                0x200000ec                AUDIO_MAL_DMA_STREAM
+ .data.AUDIO_MAL_DMA_FLAG_TC
+                0x200000f0        0x4 stm32f4_discovery_audio_codec.o
+                0x200000f0                AUDIO_MAL_DMA_FLAG_TC
+ .data.AudioTotalSize
+                0x200000f4        0x4 stm32f4_discovery_audio_codec.o
+                0x200000f4                AudioTotalSize
+ .data.AUDIO_MAL_DMA_IRQ
+                0x200000f8        0x4 stm32f4_discovery_audio_codec.o
+                0x200000f8                AUDIO_MAL_DMA_IRQ
+ .data.CurrAudioInterface
+                0x200000fc        0x4 stm32f4_discovery_audio_codec.o
+                0x200000fc                CurrAudioInterface
+ .data.AUDIO_MAL_DMA_FLAG_HT
+                0x20000100        0x4 stm32f4_discovery_audio_codec.o
+                0x20000100                AUDIO_MAL_DMA_FLAG_HT
+ .data.AUDIO_MAL_DMA_DREG
+                0x20000104        0x4 stm32f4_discovery_audio_codec.o
+                0x20000104                AUDIO_MAL_DMA_DREG
+ .data.APBAHBPrescTable
+                0x20000108       0x10 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ *(.rtext)
+                0x20000118                . = ALIGN (0x4)
+                0x20000118                _edata = .
+
+.igot.plt       0x20000118        0x0 load address 0x080a3b38
+ .igot.plt      0x00000000        0x0 audio.o
+                0x20000118                . = ALIGN (0x4)
+
+.bss            0x20000118      0xdc4 load address 0x080a3b38
+                0x20000118                _sbss = .
+                0x20000118                __bss_start__ = _sbss
+ *(.bss)
+ *(.bss*)
+ .bss.old_ch2.7496
+                0x20000118        0x4 board.o
+ .bss.old_ch1.7495
+                0x2000011c        0x4 board.o
+ .bss.statz.8352
+                0x20000120        0x4 display.o
+ .bss.stack.8350
+                0x20000124       0x10 display.o
+ .bss.sp.8349   0x20000134        0x4 display.o
+ .bss.pc.8348   0x20000138        0x4 display.o
+ .bss.currentx.8353
+                0x2000013c        0x4 display.o
+ .bss.currenty.8354
+                0x20000140        0x4 display.o
+ .bss.scale.8351
+                0x20000144        0x4 display.o
+ .bss.AUDIO_MAL_DMA_CHANNEL
+                0x20000148        0x4 stm32f4_discovery_audio_codec.o
+                0x20000148                AUDIO_MAL_DMA_CHANNEL
+ .bss.OutputDev
+                0x2000014c        0x1 stm32f4_discovery_audio_codec.o
+                0x2000014c                OutputDev
+ *(COMMON)
+ *fill*         0x2000014d        0x3 00
+ COMMON         0x20000150        0x4 board.o
+                0x20000150                g_count
+ COMMON         0x20000154      0xd0c main.o
+                0x20000154                g_cpu_SP
+                0x20000158                g_aud_idx
+                0x2000015c                g_cpu_save_flags
+                0x20000160                g_sys_start1
+                0x20000164                g_aud_last_saucer
+                0x20000168                g_sys_bank
+                0x2000016c                g_sys_cslot_util
+                0x20000170                g_cpu_save_Y
+                0x20000172                g_cpu_save_PC
+                0x20000174                g_aud_saucer_fire
+                0x20000178                g_vctr_portrait
+                0x2000017c                g_sys_cslot_right
+                0x20000180                g_sys_sram
+                0x20000580                g_cpu_save_X
+                0x20000581                g_cpu_save_A
+                0x20000584                g_sys_self_test
+                0x20000588                g_soc_curr_switch
+                0x2000058c                g_cpu_irq_cycle
+                0x20000590                g_sys_slam
+                0x20000594                g_sys_vram
+                0x20000d94                g_aud_curr_saucer
+                0x20000d98                g_sys_cslot_left
+                0x20000d9c                g_sys_optionreg
+                0x20000da0                g_aud_abuf
+                0x20000de0                g_cpu_cyc_wraps
+                0x20000de4                g_aud_ping_pong
+                0x20000de8                g_vctr_vg_count
+                0x20000dec                g_sys_start2
+                0x20000df0                g_aud_curr_thump
+                0x20000df4                g_soc_sixty_hz
+                0x20000df8                g_sys_breakflag
+                0x20000dfc                g_cpu_save_totcycles
+                0x20000e00                g_vctr_vg_busy
+                0x20000e04                RCC_Clocks
+                0x20000e14                g_vctr_vector_mem_offset
+                0x20000e18                g_vctr_vg_done_cyc
+                0x20000e1c                g_sys_points
+                0x20000e20                g_aud_curr_exp
+                0x20000e24                g_aud_smask
+                0x20000e28                g_sys_switches
+ COMMON         0x20000e60       0x7c stm32f4_discovery_audio_codec.o
+                0x20000e60                CurrentPos
+                0x20000e64                AUDIO_MAL_DMA_InitStructure
+                0x20000ea0                DMA_InitStructure
+                0x20000edc                . = ALIGN (0x4)
+                0x20000edc                _ebss = .
+                0x20000edc                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000edc      0x400 load address 0x080a48fc
+                0x20000edc                . = ALIGN (0x4)
+                0x20000edc                PROVIDE (end, .)
+                0x20000edc                PROVIDE (_end, .)
+                0x20000edc                . = (. + _Min_Heap_Size)
+                0x200012dc                . = (. + _Min_Stack_Size)
+ *fill*         0x20000edc      0x400 00
+                0x200012dc                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+
+.ARM.attributes
+                0x00000000       0x30
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x20 cells.o
+ .ARM.attributes
+                0x00000020       0x20 glue.o
+ .ARM.attributes
+                0x00000040       0x20 mixer.o
+ .ARM.attributes
+                0x00000060       0x3b audio.o
+ .ARM.attributes
+                0x0000009b       0x3b board.o
+ .ARM.attributes
+                0x000000d6       0x3b display.o
+ .ARM.attributes
+                0x00000111       0x3b game.o
+ .ARM.attributes
+                0x0000014c       0x3b main.o
+ .ARM.attributes
+                0x00000187       0x3b memory.o
+ .ARM.attributes
+                0x000001c2       0x3b no_interface.o
+ .ARM.attributes
+                0x000001fd       0x3b sim6502.o
+ .ARM.attributes
+                0x00000238       0x3b stm32f4_discovery_audio_codec.o
+ .ARM.attributes
+                0x00000273       0x3b stm32f4xx_it.o
+ .ARM.attributes
+                0x000002ae       0x3b system_stm32f4xx.o
+ .ARM.attributes
+                0x000002e9       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .ARM.attributes
+                0x00000324       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .ARM.attributes
+                0x0000035f       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .ARM.attributes
+                0x0000039a       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .ARM.attributes
+                0x000003d5       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .ARM.attributes
+                0x00000410       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .ARM.attributes
+                0x0000044b       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .ARM.attributes
+                0x00000486       0x3b /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+ .ARM.attributes
+                0x000004c1       0x21 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+LOAD cells.o
+LOAD glue.o
+LOAD mixer.o
+LOAD audio.o
+LOAD board.o
+LOAD display.o
+LOAD game.o
+LOAD main.o
+LOAD memory.o
+LOAD no_interface.o
+LOAD sim6502.o
+LOAD stm32f4_discovery_audio_codec.o
+LOAD stm32f4xx_it.o
+LOAD syscalls.o
+LOAD system_stm32f4xx.o
+LOAD /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a
+LOAD /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a
+LOAD /home/hedley/gcc-arm-none-eabi-4_7-2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libm.a
+LOAD /home/hedley/gcc-arm-none-eabi-4_7-2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/../../../../arm-none-eabi/lib/armv7e-m/fpu/libc.a
+LOAD /home/hedley/gcc-arm-none-eabi-4_7-2012q4/bin/../lib/gcc/arm-none-eabi/4.7.3/armv7e-m/fpu/libgcc.a
+OUTPUT(main.axf elf32-littlearm)
+
+.debug_info     0x00000000     0x8eb0
+ .debug_info    0x00000000      0x470 audio.o
+ .debug_info    0x00000470     0x11cd board.o
+ .debug_info    0x0000163d      0x468 display.o
+ .debug_info    0x00001aa5      0x108 game.o
+ .debug_info    0x00001bad      0x744 main.o
+ .debug_info    0x000022f1      0x614 memory.o
+ .debug_info    0x00002905      0x2a5 no_interface.o
+ .debug_info    0x00002baa     0x39b9 sim6502.o
+ .debug_info    0x00006563     0x21ce stm32f4_discovery_audio_codec.o
+ .debug_info    0x00008731      0x167 stm32f4xx_it.o
+ .debug_info    0x00008898      0x618 system_stm32f4xx.o
+
+.debug_abbrev   0x00000000     0x13ee
+ .debug_abbrev  0x00000000      0x197 audio.o
+ .debug_abbrev  0x00000197      0x2c5 board.o
+ .debug_abbrev  0x0000045c      0x1c5 display.o
+ .debug_abbrev  0x00000621       0x99 game.o
+ .debug_abbrev  0x000006ba      0x1b3 main.o
+ .debug_abbrev  0x0000086d      0x25f memory.o
+ .debug_abbrev  0x00000acc      0x1aa no_interface.o
+ .debug_abbrev  0x00000c76      0x1cc sim6502.o
+ .debug_abbrev  0x00000e42      0x3e2 stm32f4_discovery_audio_codec.o
+ .debug_abbrev  0x00001224       0x69 stm32f4xx_it.o
+ .debug_abbrev  0x0000128d      0x161 system_stm32f4xx.o
+
+.debug_loc      0x00000000     0x8778
+ .debug_loc     0x00000000      0x64b audio.o
+ .debug_loc     0x0000064b      0x230 board.o
+ .debug_loc     0x0000087b      0x4ca display.o
+ .debug_loc     0x00000d45       0x20 main.o
+ .debug_loc     0x00000d65      0xb59 memory.o
+ .debug_loc     0x000018be      0x1c7 no_interface.o
+ .debug_loc     0x00001a85     0x62f1 sim6502.o
+ .debug_loc     0x00007d76      0x880 stm32f4_discovery_audio_codec.o
+ .debug_loc     0x000085f6      0x182 system_stm32f4xx.o
+
+.debug_aranges  0x00000000      0x2e8
+ .debug_aranges
+                0x00000000       0x38 audio.o
+ .debug_aranges
+                0x00000038       0x70 board.o
+ .debug_aranges
+                0x000000a8       0x30 display.o
+ .debug_aranges
+                0x000000d8       0x20 game.o
+ .debug_aranges
+                0x000000f8       0x28 main.o
+ .debug_aranges
+                0x00000120       0x30 memory.o
+ .debug_aranges
+                0x00000150       0x30 no_interface.o
+ .debug_aranges
+                0x00000180       0x30 sim6502.o
+ .debug_aranges
+                0x000001b0       0xa8 stm32f4_discovery_audio_codec.o
+ .debug_aranges
+                0x00000258       0x68 stm32f4xx_it.o
+ .debug_aranges
+                0x000002c0       0x28 system_stm32f4xx.o
+
+.debug_ranges   0x00000000     0x14c0
+ .debug_ranges  0x00000000       0x28 audio.o
+ .debug_ranges  0x00000028       0x60 board.o
+ .debug_ranges  0x00000088       0xe0 display.o
+ .debug_ranges  0x00000168       0x10 game.o
+ .debug_ranges  0x00000178       0x18 main.o
+ .debug_ranges  0x00000190      0x130 memory.o
+ .debug_ranges  0x000002c0       0x20 no_interface.o
+ .debug_ranges  0x000002e0      0xdc8 sim6502.o
+ .debug_ranges  0x000010a8      0x378 stm32f4_discovery_audio_codec.o
+ .debug_ranges  0x00001420       0x58 stm32f4xx_it.o
+ .debug_ranges  0x00001478       0x48 system_stm32f4xx.o
+
+.debug_line     0x00000000     0x2e01
+ .debug_line    0x00000000      0x2ca audio.o
+ .debug_line    0x000002ca      0x422 board.o
+ .debug_line    0x000006ec      0x2d6 display.o
+ .debug_line    0x000009c2      0x179 game.o
+ .debug_line    0x00000b3b      0x230 main.o
+ .debug_line    0x00000d6b      0x319 memory.o
+ .debug_line    0x00001084      0x1d6 no_interface.o
+ .debug_line    0x0000125a     0x10bf sim6502.o
+ .debug_line    0x00002319      0x762 stm32f4_discovery_audio_codec.o
+ .debug_line    0x00002a7b      0x19c stm32f4xx_it.o
+ .debug_line    0x00002c17      0x1ea system_stm32f4xx.o
+
+.debug_str      0x00000000     0x1c30
+ .debug_str     0x00000000      0x191 audio.o
+                                0x1f0 (size before relaxing)
+ .debug_str     0x00000191      0xbe3 board.o
+                                0xd37 (size before relaxing)
+ .debug_str     0x00000d74       0xf6 display.o
+                                0x21d (size before relaxing)
+ .debug_str     0x00000e6a       0x22 game.o
+                                0x158 (size before relaxing)
+ .debug_str     0x00000e8c      0x28b main.o
+                                0x503 (size before relaxing)
+ .debug_str     0x00001117       0x54 memory.o
+                                0x30e (size before relaxing)
+ .debug_str     0x0000116b       0x14 no_interface.o
+                                0x142 (size before relaxing)
+ .debug_str     0x0000117f       0x60 sim6502.o
+                                0x297 (size before relaxing)
+ .debug_str     0x000011df      0x7e2 stm32f4_discovery_audio_codec.o
+                               0x11eb (size before relaxing)
+ .debug_str     0x000019c1       0xb0 stm32f4xx_it.o
+                                0x1b7 (size before relaxing)
+ .debug_str     0x00001a71      0x1bf system_stm32f4xx.o
+                                0x336 (size before relaxing)
+
+.comment        0x00000000       0x70
+ .comment       0x00000000       0x70 audio.o
+                                 0x71 (size before relaxing)
+ .comment       0x00000000       0x71 board.o
+ .comment       0x00000000       0x71 display.o
+ .comment       0x00000000       0x71 game.o
+ .comment       0x00000000       0x71 main.o
+ .comment       0x00000000       0x71 memory.o
+ .comment       0x00000000       0x71 no_interface.o
+ .comment       0x00000000       0x71 sim6502.o
+ .comment       0x00000000       0x71 stm32f4_discovery_audio_codec.o
+ .comment       0x00000000       0x71 stm32f4xx_it.o
+ .comment       0x00000000       0x71 system_stm32f4xx.o
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+ .comment       0x00000000       0x71 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+
+.debug_frame    0x00000000      0x604
+ .debug_frame   0x00000000       0x60 audio.o
+ .debug_frame   0x00000060      0x120 board.o
+ .debug_frame   0x00000180       0x58 display.o
+ .debug_frame   0x000001d8       0x20 game.o
+ .debug_frame   0x000001f8       0x40 main.o
+ .debug_frame   0x00000238       0x5c memory.o
+ .debug_frame   0x00000294       0x58 no_interface.o
+ .debug_frame   0x000002ec       0x6c sim6502.o
+ .debug_frame   0x00000358      0x1c8 stm32f4_discovery_audio_codec.o
+ .debug_frame   0x00000520       0xb0 stm32f4xx_it.o
+ .debug_frame   0x000005d0       0x34 system_stm32f4xx.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC_IRQHandler                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+AHBPrescTable                                     system_stm32f4xx.o
+AUDIO_MAL_DMA_CHANNEL                             stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_CLOCK                               stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_DREG                                stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_FLAG_DME                            stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_FLAG_FE                             stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_FLAG_HT                             stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_FLAG_TC                             stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_FLAG_TE                             stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_IRQ                                 stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_InitStructure                       stm32f4_discovery_audio_codec.o
+AUDIO_MAL_DMA_STREAM                              stm32f4_discovery_audio_codec.o
+                                                  main.o
+                                                  board.o
+AudioRemSize                                      stm32f4_discovery_audio_codec.o
+AudioTotalSize                                    stm32f4_discovery_audio_codec.o
+Audio_MAL_Play                                    stm32f4_discovery_audio_codec.o
+BusFault_Handler                                  stm32f4xx_it.o
+CAN1_RX0_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN1_RX1_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN1_SCE_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN1_TX_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN2_RX0_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN2_RX1_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN2_SCE_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CAN2_TX_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+CODECTimeout                                      stm32f4_discovery_audio_codec.o
+CRYP_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+Codec_TIMEOUT_UserCallback                        stm32f4_discovery_audio_codec.o
+CurrAudioInterface                                stm32f4_discovery_audio_codec.o
+CurrentPos                                        stm32f4_discovery_audio_codec.o
+DAC_ClearFlag                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_ClearITPendingBit                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_Cmd                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+DAC_Config                                        stm32f4_discovery_audio_codec.o
+DAC_DMACmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_DeInit                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_DualSoftwareTriggerCmd                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_GetDataOutputValue                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_GetFlagStatus                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_GetITStatus                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_ITConfig                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_Init                                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+DAC_SetChannel1Data                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                                                  stm32f4_discovery_audio_codec.o
+DAC_SetChannel2Data                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_SetDualChannelData                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_SoftwareTriggerCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_StructInit                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DAC_WaveGenerationCmd                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+DCMI_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream0_IRQHandler                           stm32f4_discovery_audio_codec.o
+DMA1_Stream1_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream2_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream3_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream4_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream5_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream6_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA1_Stream7_IRQHandler                           stm32f4_discovery_audio_codec.o
+DMA2_Stream0_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream1_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream2_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream3_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream4_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream5_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream6_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA2_Stream7_IRQHandler                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+DMA_ClearFlag                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  stm32f4_discovery_audio_codec.o
+DMA_ClearITPendingBit                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_Cmd                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  stm32f4_discovery_audio_codec.o
+DMA_DeInit                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  stm32f4_discovery_audio_codec.o
+DMA_DoubleBufferModeCmd                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  stm32f4_discovery_audio_codec.o
+DMA_DoubleBufferModeConfig                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  stm32f4_discovery_audio_codec.o
+DMA_FlowControllerConfig                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_GetCmdStatus                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_GetCurrDataCounter                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_GetCurrentMemoryTarget                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  board.o
+DMA_GetFIFOStatus                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_GetFlagStatus                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_GetITStatus                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_ITConfig                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_Init                                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  stm32f4_discovery_audio_codec.o
+DMA_InitStructure                                 stm32f4_discovery_audio_codec.o
+DMA_MemoryTargetConfig                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_PeriphIncOffsetSizeConfig                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_SetCurrDataCounter                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DMA_StructInit                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+DebugMon_Handler                                  stm32f4xx_it.o
+Default_Handler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+ETH_IRQHandler                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+ETH_WKUP_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+EVAL_AUDIO_DeInit                                 stm32f4_discovery_audio_codec.o
+EVAL_AUDIO_GetSampleCallBack                      board.o
+                                                  stm32f4_discovery_audio_codec.o
+EVAL_AUDIO_Init                                   stm32f4_discovery_audio_codec.o
+                                                  board.o
+EVAL_AUDIO_Mute                                   stm32f4_discovery_audio_codec.o
+EVAL_AUDIO_PauseResume                            stm32f4_discovery_audio_codec.o
+EVAL_AUDIO_Play                                   stm32f4_discovery_audio_codec.o
+                                                  board.o
+EVAL_AUDIO_SetAudioInterface                      stm32f4_discovery_audio_codec.o
+                                                  board.o
+EVAL_AUDIO_Stop                                   stm32f4_discovery_audio_codec.o
+EVAL_AUDIO_VolumeCtl                              stm32f4_discovery_audio_codec.o
+EXTI0_IRQHandler                                  stm32f4xx_it.o
+EXTI15_10_IRQHandler                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+EXTI1_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+EXTI2_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+EXTI3_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+EXTI4_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+EXTI9_5_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+FLASH_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+FPU_IRQHandler                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+FSMC_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+GPIO_DeInit                                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_Init                                         /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+GPIO_PinAFConfig                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+GPIO_PinLockConfig                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_ReadInputData                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_ReadInputDataBit                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_ReadOutputData                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_ReadOutputDataBit                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_ResetBits                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_SetBits                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_StructInit                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_ToggleBits                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_Write                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+GPIO_WriteBit                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                                                  stm32f4_discovery_audio_codec.o
+HASH_RNG_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+HardFault_Handler                                 stm32f4xx_it.o
+I2C1_ER_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+I2C1_EV_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+I2C2_ER_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+I2C2_EV_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+I2C3_ER_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+I2C3_EV_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+I2C_ARPCmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_AcknowledgeConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_CalculatePEC                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_CheckEvent                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_ClearFlag                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_ClearITPendingBit                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_Cmd                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_DMACmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_DMALastTransferCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_DeInit                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_DualAddressCmd                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_FastModeDutyCycleConfig                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_GeneralCallCmd                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_GenerateSTART                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_GenerateSTOP                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_GetFlagStatus                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_GetITStatus                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_GetLastEvent                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_GetPEC                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_ITConfig                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_Init                                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_NACKPositionConfig                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_OwnAddress2Config                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_PECPositionConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_ReadRegister                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_ReceiveData                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_SMBusAlertConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_Send7bitAddress                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_SendData                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2C_SoftwareResetCmd                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_StretchClockCmd                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_StructInit                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2C_TransmitPEC                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+I2S_Cmd                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2S_FullDuplexConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+I2S_Init                                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  stm32f4_discovery_audio_codec.o
+I2S_StructInit                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+MEMRD                                             memory.o
+                                                  sim6502.o
+                                                  main.o
+                                                  display.o
+MEMWR                                             memory.o
+                                                  sim6502.o
+MemManage_Handler                                 stm32f4xx_it.o
+NMI_Handler                                       stm32f4xx_it.o
+NVIC_Init                                         /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+                                                  board.o
+NVIC_PriorityGroupConfig                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+NVIC_SetVectorTable                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+NVIC_SystemLPConfig                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+OTG_FS_IRQHandler                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+OTG_FS_WKUP_IRQHandler                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+OTG_HS_EP1_IN_IRQHandler                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+OTG_HS_EP1_OUT_IRQHandler                         /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+OTG_HS_IRQHandler                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+OTG_HS_WKUP_IRQHandler                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+OutputDev                                         stm32f4_discovery_audio_codec.o
+PVD_IRQHandler                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+PendSV_Handler                                    stm32f4xx_it.o
+RCC_AHB1PeriphClockCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+RCC_AHB1PeriphClockLPModeCmd                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_AHB1PeriphResetCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+RCC_AHB2PeriphClockCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_AHB2PeriphClockLPModeCmd                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_AHB2PeriphResetCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_AHB3PeriphClockCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_AHB3PeriphClockLPModeCmd                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_AHB3PeriphResetCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_APB1PeriphClockCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+RCC_APB1PeriphClockLPModeCmd                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_APB1PeriphResetCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+RCC_APB2PeriphClockCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_APB2PeriphClockLPModeCmd                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_APB2PeriphResetCmd                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+RCC_AdjustHSICalibrationValue                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_BackupResetCmd                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_ClearFlag                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_ClearITPendingBit                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_ClockSecuritySystemCmd                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_Clocks                                        main.o
+RCC_DeInit                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_GetClocksFreq                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  main.o
+RCC_GetFlagStatus                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_GetITStatus                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_GetSYSCLKSource                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_HCLKConfig                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_HSEConfig                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_HSICmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_I2SCLKConfig                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_IRQHandler                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+RCC_ITConfig                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_LSEConfig                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_LSICmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_MCO1Config                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_MCO2Config                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_PCLK1Config                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_PCLK2Config                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_PLLCmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_PLLConfig                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_PLLI2SCmd                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_PLLI2SConfig                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_RTCCLKCmd                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_RTCCLKConfig                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_SYSCLKConfig                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RCC_WaitForHSEStartUp                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+RTC_Alarm_IRQHandler                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+RTC_WKUP_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+Reset_Handler                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+SDIO_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+SPI1_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+SPI2_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+SPI3_IRQHandler                                   stm32f4_discovery_audio_codec.o
+SPI_BiDirectionalLineConfig                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_CalculateCRC                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_Cmd                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_DataSizeConfig                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_GetCRC                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_GetCRCPolynomial                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_I2S_ClearFlag                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_I2S_ClearITPendingBit                         /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_I2S_DMACmd                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  stm32f4_discovery_audio_codec.o
+SPI_I2S_DeInit                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  stm32f4_discovery_audio_codec.o
+SPI_I2S_GetFlagStatus                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  stm32f4_discovery_audio_codec.o
+SPI_I2S_GetITStatus                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_I2S_ITConfig                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_I2S_ReceiveData                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_I2S_SendData                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  stm32f4_discovery_audio_codec.o
+SPI_Init                                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_NSSInternalSoftwareConfig                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_SSOutputCmd                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_StructInit                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_TIModeCmd                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SPI_TransmitCRC                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+SVC_Handler                                       stm32f4xx_it.o
+SysTick_CLKSourceConfig                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+SysTick_Handler                                   stm32f4xx_it.o
+SystemCoreClock                                   system_stm32f4xx.o
+SystemCoreClockUpdate                             system_stm32f4xx.o
+SystemInit                                        system_stm32f4xx.o
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TAMP_STAMP_IRQHandler                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM1_BRK_TIM9_IRQHandler                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM1_CC_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM1_TRG_COM_TIM11_IRQHandler                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM1_UP_TIM10_IRQHandler                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM2_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM3_IRQHandler                                   board.o
+TIM4_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM5_IRQHandler                                   board.o
+TIM6_DAC_IRQHandler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM7_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM8_BRK_TIM12_IRQHandler                         /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM8_CC_IRQHandler                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM8_TRG_COM_TIM14_IRQHandler                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM8_UP_TIM13_IRQHandler                          /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+TIM_ARRPreloadConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_BDTRConfig                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_BDTRStructInit                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_CCPreloadControl                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_CCxCmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_CCxNCmd                                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ClearFlag                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ClearITPendingBit                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ClearOC1Ref                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ClearOC2Ref                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ClearOC3Ref                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ClearOC4Ref                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_Cmd                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  board.o
+TIM_CounterModeConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_CtrlPWMOutputs                                /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_DMACmd                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_DMAConfig                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_DeInit                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ETRClockMode1Config                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ETRClockMode2Config                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ETRConfig                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_EncoderInterfaceConfig                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ForcedOC1Config                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ForcedOC2Config                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ForcedOC3Config                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ForcedOC4Config                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GenerateEvent                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetCapture1                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetCapture2                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetCapture3                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetCapture4                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetCounter                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetFlagStatus                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetITStatus                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_GetPrescaler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ICInit                                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ICStructInit                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_ITConfig                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  board.o
+TIM_ITRxExternalClockConfig                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_InternalClockConfig                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC1FastConfig                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC1Init                                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC1NPolarityConfig                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC1PolarityConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC1PreloadConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC2FastConfig                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC2Init                                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC2NPolarityConfig                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC2PolarityConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC2PreloadConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC3FastConfig                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC3Init                                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC3NPolarityConfig                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC3PolarityConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC3PreloadConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC4FastConfig                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC4Init                                       /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC4PolarityConfig                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OC4PreloadConfig                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_OCStructInit                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_PWMIConfig                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_PrescalerConfig                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_RemapConfig                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectCCDMA                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectCOM                                     /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectHallSensor                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectInputTrigger                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectMasterSlaveMode                         /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectOCxM                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectOnePulseMode                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectOutputTrigger                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SelectSlaveMode                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetAutoreload                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetClockDivision                              /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetCompare1                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetCompare2                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetCompare3                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetCompare4                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetCounter                                    /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetIC1Prescaler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetIC2Prescaler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetIC3Prescaler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_SetIC4Prescaler                               /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_TIxExternalClockConfig                        /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  board.o
+TIM_TimeBaseInit                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  board.o
+TIM_TimeBaseStructInit                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_UpdateDisableConfig                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+TIM_UpdateRequestConfig                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+UART4_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+UART5_IRQHandler                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+USART1_IRQHandler                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+USART2_IRQHandler                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+USART3_IRQHandler                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+USART6_IRQHandler                                 /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+UsageFault_Handler                                stm32f4xx_it.o
+WWDG_IRQHandler                                   /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+_ebss                                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+_edata                                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+_end                                              syscalls.o
+_estack                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+_sbrk                                             syscalls.o
+_sbss                                             /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+_sdata                                            /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+_sidata                                           /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+add_sounds                                        audio.o
+                                                  main.o
+assert_failed                                     main.o
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_tim.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_spi.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_rcc.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_i2c.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_gpio.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dma.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(stm32f4xx_dac.o)
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/STM32F4xx_StdPeriph_Driver/src/gcc-cm4f/libstm32f4-periph-cm4f.a(misc.o)
+check_switch_decr                                 memory.o
+clr_dwt                                           glue.o
+dac_out                                           board.o
+                                                  no_interface.o
+disable_sound                                     audio.o
+                                                  memory.o
+dopop                                             sim6502.o
+dopush                                            sim6502.o
+draw_line                                         no_interface.o
+                                                  display.o
+enable_sound                                      audio.o
+                                                  memory.o
+explode1                                          audio.o
+explode2                                          audio.o
+explode3                                          audio.o
+fire                                              audio.o
+g_aud_abuf                                        stm32f4_discovery_audio_codec.o
+                                                  main.o
+                                                  board.o
+g_aud_curr_exp                                    memory.o
+                                                  main.o
+g_aud_curr_saucer                                 memory.o
+                                                  main.o
+g_aud_curr_thump                                  memory.o
+                                                  main.o
+g_aud_explosion                                   main.o
+                                                  memory.o
+g_aud_idx                                         main.o
+                                                  board.o
+g_aud_last_saucer                                 memory.o
+                                                  main.o
+g_aud_ping_pong                                   main.o
+                                                  board.o
+g_aud_saucer_fire                                 memory.o
+                                                  main.o
+g_aud_smask                                       main.o
+                                                  board.o
+                                                  audio.o
+g_codec_volume                                    main.o
+                                                  stm32f4_discovery_audio_codec.o
+                                                  board.o
+g_count                                           board.o
+g_cpu_SP                                          sim6502.o
+                                                  main.o
+g_cpu_cyc_wraps                                   sim6502.o
+                                                  main.o
+g_cpu_irq_cycle                                   sim6502.o
+                                                  memory.o
+                                                  main.o
+g_cpu_irq_cycle_off                               main.o
+                                                  sim6502.o
+g_cpu_save_A                                      sim6502.o
+                                                  main.o
+g_cpu_save_PC                                     sim6502.o
+                                                  main.o
+g_cpu_save_X                                      sim6502.o
+                                                  main.o
+g_cpu_save_Y                                      sim6502.o
+                                                  main.o
+g_cpu_save_flags                                  sim6502.o
+                                                  main.o
+g_cpu_save_totcycles                              sim6502.o
+                                                  main.o
+g_pfnVectors                                      /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+g_soc_curr_switch                                 memory.o
+                                                  main.o
+g_soc_sixty_hz                                    memory.o
+                                                  main.o
+                                                  board.o
+g_sys_bank                                        memory.o
+                                                  main.o
+g_sys_breakflag                                   main.o
+g_sys_cslot_left                                  memory.o
+                                                  main.o
+g_sys_cslot_right                                 memory.o
+                                                  main.o
+g_sys_cslot_util                                  memory.o
+                                                  main.o
+g_sys_mem                                         cells.o
+                                                  sim6502.o
+                                                  memory.o
+g_sys_optionreg                                   memory.o
+                                                  main.o
+                                                  game.o
+g_sys_points                                      main.o
+g_sys_self_test                                   sim6502.o
+                                                  memory.o
+                                                  main.o
+g_sys_slam                                        memory.o
+                                                  main.o
+g_sys_sram                                        memory.o
+                                                  main.o
+g_sys_start1                                      main.o
+g_sys_start2                                      main.o
+g_sys_switches                                    main.o
+g_sys_vram                                        memory.o
+                                                  main.o
+g_vctr_delay_factor                               main.o
+                                                  board.o
+g_vctr_portrait                                   main.o
+                                                  display.o
+g_vctr_post_delay                                 main.o
+                                                  board.o
+g_vctr_vector_mem_offset                          main.o
+                                                  game.o
+                                                  display.o
+g_vctr_vg_busy                                    main.o
+                                                  display.o
+g_vctr_vg_count                                   memory.o
+                                                  main.o
+g_vctr_vg_done_cyc                                sim6502.o
+                                                  main.o
+                                                  display.o
+get_and_clear_dwt                                 glue.o
+                                                  board.o
+get_dwt                                           glue.o
+get_sample                                        audio.o
+                                                  board.o
+iabs                                              no_interface.o
+                                                  board.o
+init_board                                        board.o
+                                                  main.o
+init_dac                                          board.o
+init_dwt                                          glue.o
+                                                  board.o
+init_gpio                                         board.o
+init_timer                                        board.o
+life                                              audio.o
+lsaucer                                           audio.o
+main                                              main.o
+                                                  /rnasbkup/STM32F4/STM32F4-Discovery_FW_V1.1.0/Libraries/CMSIS/ST/STM32F4xx/Source/Templates/gcc_ride7/gcc-cm4f/libstm32f4-init-cm4f.a(startup_stm32f4xx.o)
+mixer                                             mixer.o
+                                                  audio.o
+plot                                              no_interface.o
+read_gpio                                         board.o
+                                                  memory.o
+setup_game                                        game.o
+                                                  main.o
+sfire                                             audio.o
+sim_6502                                          sim6502.o
+                                                  main.o
+sounds                                            audio.o
+ssaucer                                           audio.o
+thrust                                            audio.o
+thumphi                                           audio.o
+thumplo                                           audio.o
+vg_done                                           display.o
+                                                  memory.o
+vg_go                                             display.o
+                                                  memory.o
+vg_reset                                          display.o
+                                                  memory.o
+write_gpio                                        board.o
+                                                  no_interface.o
+write_gpio_leds                                   board.o
+                                                  memory.o
+xyzzy                                             mixer.o
